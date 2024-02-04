@@ -31,7 +31,7 @@ Para ejecutar esta aplicación en tu entorno local, puedes usar [expo Go](https:
 
 2. Entra a la carpeta e inicia expo en la terminal
    ```sh
-   cd Pomodoro-app
+   cd pomodoro-react-v1
    npx expo start
 3. Escanea el QR con la app de Expo Go, o si lo prefieres, pulsa w para abrir la versión web
 
