@@ -27,7 +27,7 @@ Para ejecutar esta aplicación en tu entorno local, puedes usar [expo Go](https:
 
 1. Clona el repositorio
    ```sh
-   git clone https://github.com/gabmartinbr/Pomodoro-app.git
+   https://github.com/gabmartinbr/pomodoro-react-v1.git
 
 2. Entra a la carpeta e inicia expo en la terminal
    ```sh
