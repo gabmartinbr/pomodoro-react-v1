@@ -10,7 +10,12 @@ Una aplicación de temporizador Pomodoro simple, construida con React Native. Id
 - Soporte para periodos de enfoque y descanso, 25, 5 y 15 min..
 
 ## Vista Previa 📱
-<img src="https://github.com/gabmartinbr/Pomodoro-app/assets/114770294/92ac1a37-26ad-4c48-ad19-c570ceb19084" width="150"/>
+<p align="center">
+  <img src="https://github.com/gabmartinbr/pomodoro-react-v1/assets/114770294/3e26db86-6413-45bf-b68f-874db327dad1" width="200" />
+  <img src="https://github.com/gabmartinbr/pomodoro-react-v1/assets/114770294/5e74f458-db0e-4b41-9ce7-f2b6e72c7de2" width="200" />
+  <img src="https://github.com/gabmartinbr/pomodoro-react-v1/assets/114770294/206b6e9a-a229-4311-ba60-e0da28cbd8b5" width="200" />
+</p>
+
 
 
 ## Empezando
