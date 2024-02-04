@@ -31,6 +31,7 @@ Para ejecutar esta aplicación en tu entorno local, puedes usar [expo Go](https:
 
 2. Entra a la carpeta e inicia expo en la terminal
    ```sh
+   cd Pomodoro-app
    npx expo start
 3. Escanea el QR con la app de Expo Go, o si lo prefieres, pulsa w para abrir la versión web
 
@@ -38,7 +39,7 @@ Para ejecutar esta aplicación en tu entorno local, puedes usar [expo Go](https:
 Si prefieres instalar la app en tu dispositivo android, descarga el APK de la versión más recienre desde [AQUÍ](https://drive.google.com/file/d/1vTlLhFnCaW32R7ryr_Tk0cYRKLz6LXn6/view?usp=sharing), instala y ejecuta ;)
 
 ### Uso 📖
-Simplemente inicia la aplicación y selecciona si deseas iniciar un periodo de enfoque, un descanso corto o un descanso largo. La aplicación hará un sonido al empezar el temporizador o decidas pausarlo un momento, además de avisar cuando acabe el temporizador.
+Simplemente inicia la aplicación y selecciona si deseas iniciar un periodo de enfoque, un descanso corto o un descanso largo. La aplicación hará un sonido al empezar el temporizador o decidas pausarlo un momento, además de avisar cuando acabe el temporizador. Para reiniciar el temporizador si fuese necesario, pulsa en el tiempo que quieres reiniciar.
 
 ### Licencia 📜
 Distribuido bajo la licencia MIT. Consulta LICENSE para más información.
